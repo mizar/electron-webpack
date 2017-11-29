@@ -1,6 +1,6 @@
 {
   "name": "electron-webpack-ts",
-  "version": "1.2.0",
+  "version": "1.2.1-0",
   "license": "MIT",
   "author": "Vladimir Krivosheev <develar@gmail.com>",
   "files": [],
